@@ -44,7 +44,7 @@ A smart tool that adapts to your needs with different action modes:
 
 ## Usage
 
-### Connecting to Claude Desktop
+### New Connecting to Claude Desktop
 
 Add this to your Claude Desktop configuration file:
 
